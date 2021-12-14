@@ -11,7 +11,7 @@ namespace TinyCollege
         // create the class objects
         string connectionString;
         SqlConnection conn;
-        //int studentId;
+
         public FormStudentEnrolled()
         {
             connectionString = ConfigurationManager.ConnectionStrings[
